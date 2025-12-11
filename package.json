@@ -1,0 +1,33 @@
+{
+  "name": "ajs-test-ci-hw-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandrParamonov/ajs-test-ci-HW-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AlexandrParamonov/ajs-test-ci-HW-2/issues"
+  },
+  "homepage": "https://github.com/AlexandrParamonov/ajs-test-ci-HW-2#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.28.3",
+    "@babel/core": "^7.28.5",
+    "@babel/preset-env": "^7.28.5",
+    "babel-jest": "^30.2.0",
+    "eslint": "^8.57.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "jest": "^30.2.0"
+  },
+  "dependencies": {
+    "core-js": "^3.47.0"
+  }
+}
